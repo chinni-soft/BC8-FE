@@ -1,0 +1,37 @@
+@import "../node_modules/ag-grid-community/src/styles/ag-grid.scss";
+@import "../node_modules/ag-grid-community/src/styles/ag-theme-alpine/sass/ag-theme-alpine-mixin.scss";
+@import "../node_modules/ag-grid-community/src/styles/ag-theme-balham/sass/ag-theme-balham-mixin.scss";
+
+.ag-theme-alpine {
+  @include ag-theme-alpine((
+    //odd-row-background-color: #BFC8DC,
+  ));
+}
+.ag-theme-alpine .ag-cell {
+  line-height: 30px;
+}
+.text-align-right {
+  text-align: end;
+}
+.ag-theme-alpine .ag-ltr .ag-cell {
+  border-right-color: #dde2eb;
+}
+.external-partners-header-cell-class {
+  margin-left: 14px ;
+}
+.ag-body-horizontal-scroll-viewport {
+  overflow-x: hidden !important;
+}
+.external-partners-row-class {
+  width: calc(100% - 28px) !important;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  left: 14px;
+}
+.ag-theme-alpine .ag-root-wrapper {
+  background-color: #eeeeee !important;
+  border:solid transparent !important;
+}
+.ag-theme-alpine .ag-header {
+  border: 1px solid #dde2eb !important;
+}

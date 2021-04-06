@@ -1,0 +1,10 @@
+{
+  "accessButtonClass": "MuiTypography-h3",
+  "enableAccessClass": "MuiButtonBase-root",
+  "googleSuiteCollaboratorClass": "MuiGrid-item",
+  "addConnectorClass": "MuiButtonBase-root",
+  "noActivePermission": "No active permissions",
+  "enableAccess": "Enable Access",
+  "googleSuite": "Google Suite",
+  "add": "Add"
+}

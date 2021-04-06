@@ -1,0 +1,11 @@
+import { SET_COLLABORATION } from "../../constants";
+import { setCollaboration } from '../../actions/collobartion';
+
+
+describe("collaboration action", () => {
+    it("test collaboration action", () => {
+        expect(setCollaboration("57829582758-9385-7835")).toEqual({
+            type: SET_COLLABORATION,
+            payload: "57829582758-9385-7835"});
+    });
+});

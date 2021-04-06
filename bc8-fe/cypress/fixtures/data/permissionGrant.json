@@ -1,0 +1,336 @@
+{
+  "getCurrentPermissionGrants": [
+    {
+      "id": "547feabc-cc4a-4ad9-926c-09b12cf8cdb5",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+      "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+    },
+    {
+      "id": "5a3fe7aa-5beb-4451-a406-f14f28af004d",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+      "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+    },
+    {
+      "id": "e8f81e52-95d0-4642-8225-3b05d162f583",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+      "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+    },
+    {
+      "id": "7fb28acb-a3b1-47a8-9fa8-1871a60ba118",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+      "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+    },
+    {
+      "id": "4ba9381e-1853-40ec-a6a0-aa37252f4e88",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+      "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+    },
+    {
+      "id": "151d07ad-cc98-4315-a4d4-4ab32ef9d06b",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+      "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+    },
+    {
+      "id": "26d672c9-9d78-43f4-9a6f-f4deb899a849",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+      "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+    },
+    {
+      "id": "88ad94f9-7eb1-44a1-9b3c-47e0e253f0b5",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+      "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+    },
+    {
+      "id": "e63ef980-a076-4620-8402-c779c5383538",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+      "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+    },
+    {
+      "id": "769f9dc8-6369-4cc5-bdbb-a1d53bb885c4",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+      "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+    },
+    {
+      "id": "48a71b1b-baa3-45db-8d75-53279e73f68d",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": false,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+      "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+    },
+    {
+      "id": "551f045c-207b-42a1-8fe0-e0aa454f3090",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+      "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+    },
+    {
+      "id": "b9920526-0745-4ee0-8225-cfa3c1a22dd1",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+      "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+    },
+    {
+      "id": "8e539633-5e7e-4207-8361-b3bcb222e585",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+      "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+    },
+    {
+      "id": "4caf78f6-3114-4eb9-bb76-5af21b755d26",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+      "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+    },
+    {
+      "id": "1adac303-e431-4949-bf08-7cad7bbcf87f",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "enabled": true,
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921,
+      "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+      "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+    }
+  ],
+  "getEmptyPermissionGrants": [],
+  "putPermissionGrant": {
+    "id": "4ba9381e-1853-40ec-a6a0-aa37252f4e88",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+    "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+  },
+  "getUpdatedPermissionGrants": [{
+    "id": "547feabc-cc4a-4ad9-926c-09b12cf8cdb5",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+    "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+  },
+  {
+    "id": "5a3fe7aa-5beb-4451-a406-f14f28af004d",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+    "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+  },
+  {
+    "id": "e8f81e52-95d0-4642-8225-3b05d162f583",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+    "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+  },
+  {
+    "id": "7fb28acb-a3b1-47a8-9fa8-1871a60ba118",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+    "trust_group_id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474"
+  },
+  {
+    "id": "4ba9381e-1853-40ec-a6a0-aa37252f4e88",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+    "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+  },
+  {
+    "id": "151d07ad-cc98-4315-a4d4-4ab32ef9d06b",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+    "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+  },
+  {
+    "id": "26d672c9-9d78-43f4-9a6f-f4deb899a849",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+    "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+  },
+  {
+    "id": "88ad94f9-7eb1-44a1-9b3c-47e0e253f0b5",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+    "trust_group_id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5"
+  },
+  {
+    "id": "e63ef980-a076-4620-8402-c779c5383538",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+    "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+  },
+  {
+    "id": "769f9dc8-6369-4cc5-bdbb-a1d53bb885c4",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+    "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+  },
+  {
+    "id": "48a71b1b-baa3-45db-8d75-53279e73f68d",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": false,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+    "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+  },
+  {
+    "id": "551f045c-207b-42a1-8fe0-e0aa454f3090",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+    "trust_group_id": "939542a0-f22a-4fec-87a4-19040da245ab"
+  },
+  {
+    "id": "b9920526-0745-4ee0-8225-cfa3c1a22dd1",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+    "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+  },
+  {
+    "id": "8e539633-5e7e-4207-8361-b3bcb222e585",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+    "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+  },
+  {
+    "id": "4caf78f6-3114-4eb9-bb76-5af21b755d26",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+    "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+  },
+  {
+    "id": "1adac303-e431-4949-bf08-7cad7bbcf87f",
+    "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+    "department_id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+    "enabled": true,
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921,
+    "permission_id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+    "trust_group_id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0"
+  }]
+
+}

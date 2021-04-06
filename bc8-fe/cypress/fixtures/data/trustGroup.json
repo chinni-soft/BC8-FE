@@ -1,0 +1,76 @@
+{
+  "getCurrentTrustGroup": [
+    {
+      "id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474",
+      "name": "DO NOT TRUST",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0",
+      "name": "Top 100",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "939542a0-f22a-4fec-87a4-19040da245ab",
+      "name": "Top 10000",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5",
+      "name": "Top 30000",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    }
+  ],
+  "getEmptyTrustGroup": [],
+  "postTrustGroup":{
+    "name": "Top 40000",
+    "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+    "created_at": 1601978260921,
+    "updated_at": 1601978260921
+  },
+  "getUpdatedTrustGroup": [
+    {
+      "id": "1d0ed9f4-35b9-461f-9938-9c7cdf69c474",
+      "name": "DO NOT TRUST",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "e60ab218-e9df-4fa8-bc65-7ed9435194e0",
+      "name": "Top 100",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "939542a0-f22a-4fec-87a4-19040da245ab",
+      "name": "Top 10000",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "a188ea8a-cd79-464a-b21d-dc710b5d24e5",
+      "name": "Top 30000",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "a188ea8a-cd79-464a-b21d-dc710b5a5g57",
+      "name": "Top 40000",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    }
+  ]
+}

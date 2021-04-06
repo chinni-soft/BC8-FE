@@ -1,0 +1,16 @@
+@import "../../../../node_modules/ag-grid-community/src/styles/ag-grid.scss";
+@import "../../../../node_modules/ag-grid-community/src/styles/ag-theme-alpine/sass/ag-theme-alpine-mixin.scss";
+
+.ag-theme-alpine {
+  @include ag-theme-alpine(());
+  height: auto;
+  width: auto;
+}
+.ag-theme-alpine .ag-cell {
+  line-height: 30px;
+  padding-left: 12px !important;
+  height: auto;
+}
+.ag-theme-alpine .ag-ltr .ag-cell {
+  border-right-color: #dde2eb;
+}

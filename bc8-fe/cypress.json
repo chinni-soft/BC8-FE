@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "env": {
+    "cookieName": "Rayshield.id",
+    "googleSocialLoginUsername": "USERNAME",
+    "googleSocialLoginPassword": "PASSWORD",
+    "loginUrl": "http://localhost:8080/",
+    "homepage": "http://localhost:8080",
+    "REACT_APP_DOMAIN_SERVICE": "http://localhost:8082",
+    "REACT_APP_TRUST_MANAGEMENT_SERVICE": "http://localhost:8084",
+    "REACT_APP_COLLABORATION_SERVICE":"http://localhost:8081",
+    "REACT_APP_ORG_MANAGEMENT_SERVICE": "http://localhost:8083"
+  },
+  "blockHosts": ["www.google-analytics.com"],
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1200,
+  "viewportHeight": 750
+}

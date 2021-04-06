@@ -1,0 +1,1006 @@
+{
+  "collaborators": [
+    {
+      "id": "958316ff-f71f-4587-88c8-7e55ade66487",
+      "name": "Box"
+    },
+    {
+      "id": "7309e0b1-3dcc-4d12-86d2-8e260a545ea9",
+      "name": "Figma"
+    },
+    {
+      "id": "d517862c-689d-4d00-ac32-7b8b3ddf7d73",
+      "name": "Slack"
+    },
+    {
+      "id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "name": "Google Suite"
+    },
+    {
+      "id": "0388a498-9f14-42f2-8159-6d5510494c80",
+      "name": "One Drive"
+    },
+    {
+      "id": "00d627bc-7319-4cf1-b93d-5402a3854356",
+      "name": "Docusign"
+    }
+  ],
+  "trust_groups": [
+    {
+      "id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "name": "DO NOT TRUST",
+      "description": "Domains that cannot be trusted"
+    },
+    {
+      "id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "name": "Top 100",
+      "description": "Top 100 domains that can be trusted"
+    },
+    {
+      "id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "name": "Top 10000",
+      "description": "Top 10000 domains that can be trusted"
+    },
+    {
+      "id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "name": "Top 30000",
+      "description": "Top 30000 domains that can be trusted"
+    }
+  ],
+  "domains": [
+    {
+      "id": "057c8dc3-f908-44d9-93f1-16d5f1a8253e",
+      "address": "centaur.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 235,
+      "relationship": "Customer",
+      "domain_trust_group_id": "a709a4ac-2b20-4a96-8564-02d45672b338",
+      "name": "centaur"
+    },
+    {
+      "id": "6f9fd2e8-8e28-42f4-aa2a-0e5ba2c66093",
+      "address": "sbwire.com",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "trust_score": 176,
+      "relationship": "Vendor",
+      "domain_trust_group_id": "e92fcbb8-3c3a-408b-a21b-5543945a1518",
+      "name": "sbwire"
+    },
+    {
+      "id": "55080977-90b9-4931-a0d3-02b50c570c95",
+      "address": "ycombinator.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 300,
+      "relationship": "Partner",
+      "domain_trust_group_id": "a9fb55fc-c776-46da-9fe1-6f0f7cd76639",
+      "name": "ycombinator"
+    },
+    {
+      "id": "cbbc223a-d467-44ce-a604-c37648fd015f",
+      "address": "zemosolabs.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 300,
+      "relationship": "Vendor",
+      "domain_trust_group_id": "1d1f4823-7534-43c7-b9b4-e68c5a021cd4",
+      "name": "zemosolabs"
+    },
+    {
+      "id": "747ac09b-7a5c-4541-b846-ee14ee6cb901",
+      "address": "cdc.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 250,
+      "relationship": "Vendor",
+      "domain_trust_group_id": "5536acbc-6224-4560-a3f4-ffe60d2582b8",
+      "name": "cdc"
+    },
+    {
+      "id": "1c62cfc6-3f71-4e55-8102-20e7a21b5cfc",
+      "address": "columbia.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 725,
+      "relationship": "Partner",
+      "domain_trust_group_id": "9908f0bf-1098-4287-979d-6b428bad809c",
+      "name": "columbia"
+    },
+    {
+      "id": "02cee52d-f2a9-4298-8f17-2a911dc1a2d1",
+      "address": "4shared.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 225,
+      "relationship": "Customer",
+      "domain_trust_group_id": "6d44d1c1-138a-44df-92f7-5fd764588e47",
+      "name": "4shared"
+    },
+    {
+      "id": "d75575ee-c8f5-494c-bf6e-a909660fc2ed",
+      "address": "nba.com",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "trust_score": 310,
+      "relationship": "Customer",
+      "domain_trust_group_id": "a6a94db0-b3a9-4d4e-bd6d-62e9ce28b343",
+      "name": "nba"
+    },
+    {
+      "id": "ad7384cd-4deb-42b3-8f06-ee073db441d8",
+      "address": "ted.com",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "trust_score": 316,
+      "relationship": "Partner",
+      "domain_trust_group_id": "0499bcbe-5326-4d65-96a5-ec7aa0ef1ca6",
+      "name": "ted"
+    },
+    {
+      "id": "3613dc14-4b32-4998-b6e4-63dc189e8e58",
+      "address": "alpha.com",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "trust_score": 200,
+      "relationship": "Customer",
+      "domain_trust_group_id": "a64ba439-dae2-4a6c-92c5-8b2a3a1b0ff7",
+      "name": "alpha"
+    },
+    {
+      "id": "ca219eb9-ddf3-4e97-a0fb-77a6cdc52cd0",
+      "address": "stanford.com",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "trust_score": 350,
+      "relationship": "Vendor",
+      "domain_trust_group_id": "36e6c0c5-44cf-4882-b550-701d52cb8dff",
+      "name": "Stanford"
+    },
+    {
+      "id": "ca89a40b-f22a-4639-962c-8ccec534f86a",
+      "address": "baba.com",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "trust_score": 300,
+      "relationship": "Customrer",
+      "domain_trust_group_id": "31519af3-f761-4c7e-9190-eb1913c67dd2",
+      "name": "baba"
+    },
+    {
+      "id": "45232fb3-d8e9-490c-aade-5bb80df9717d",
+      "address": "abcd.com",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "trust_score": 333,
+      "relationship": "Partner",
+      "domain_trust_group_id": "c33b65a0-2813-4342-8b51-5dbf3d22c1ee",
+      "name": "abcd"
+    },
+    {
+      "id": "de1d5e7a-f51b-480a-ae89-8e82a922c5e3",
+      "address": "ddd.com",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "trust_score": 123,
+      "relationship": "Customer",
+      "domain_trust_group_id": "90c40651-4e99-4c62-ab26-2bccbc2ddfc2",
+      "name": "ddd"
+    }
+  ],
+  "domain_trust_group": [
+    {
+      "id": "a709a4ac-2b20-4a96-8564-02d45672b338",
+      "domain_id": "057c8dc3-f908-44d9-93f1-16d5f1a8253e",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af"
+    },
+    {
+      "id": "e92fcbb8-3c3a-408b-a21b-5543945a1518",
+      "domain_id": "6f9fd2e8-8e28-42f4-aa2a-0e5ba2c66093",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af"
+    },
+    {
+      "id": "a9fb55fc-c776-46da-9fe1-6f0f7cd76639",
+      "domain_id": "55080977-90b9-4931-a0d3-02b50c570c95",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af"
+    },
+    {
+      "id": "1d1f4823-7534-43c7-b9b4-e68c5a021cd4",
+      "domain_id": "cbbc223a-d467-44ce-a604-c37648fd015f",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af"
+    },
+    {
+      "id": "f080a780-343f-4846-846b-c5ddf44f577c",
+      "domain_id": "057c8dc3-f908-44d9-93f1-16d5f1a8253e",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0"
+    },
+    {
+      "id": "da06b6c4-a0fd-4689-af66-068e2f2830f5",
+      "domain_id": "6f9fd2e8-8e28-42f4-aa2a-0e5ba2c66093",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0"
+    },
+    {
+      "id": "0ca6d68a-3c66-45e1-914e-650c1763245e",
+      "domain_id": "55080977-90b9-4931-a0d3-02b50c570c95",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0"
+    },
+    {
+      "id": "a9e98f6a-ab2f-4b1a-914b-58363d5b7dfd",
+      "domain_id": "cbbc223a-d467-44ce-a604-c37648fd015f",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0"
+    },
+    {
+      "id": "5536acbc-6224-4560-a3f4-ffe60d2582b8",
+      "domain_id": "747ac09b-7a5c-4541-b846-ee14ee6cb901",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb"
+    },
+    {
+      "id": "9908f0bf-1098-4287-979d-6b428bad809c",
+      "domain_id": "1c62cfc6-3f71-4e55-8102-20e7a21b5cfc",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb"
+    },
+    {
+      "id": "6d44d1c1-138a-44df-92f7-5fd764588e47",
+      "domain_id": "02cee52d-f2a9-4298-8f17-2a911dc1a2d1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb"
+    },
+    {
+      "id": "a6a94db0-b3a9-4d4e-bd6d-62e9ce28b343",
+      "domain_id": "d75575ee-c8f5-494c-bf6e-a909660fc2ed",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "0499bcbe-5326-4d65-96a5-ec7aa0ef1ca6",
+      "domain_id": "ad7384cd-4deb-42b3-8f06-ee073db441d8",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "a64ba439-dae2-4a6c-92c5-8b2a3a1b0ff7",
+      "domain_id": "3613dc14-4b32-4998-b6e4-63dc189e8e58",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "36e6c0c5-44cf-4882-b550-701d52cb8dff",
+      "domain_id": "ca219eb9-ddf3-4e97-a0fb-77a6cdc52cd0",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "31519af3-f761-4c7e-9190-eb1913c67dd2",
+      "domain_id": "ca89a40b-f22a-4639-962c-8ccec534f86a",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "c33b65a0-2813-4342-8b51-5dbf3d22c1ee",
+      "domain_id": "45232fb3-d8e9-490c-aade-5bb80df9717d",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    },
+    {
+      "id": "90c40651-4e99-4c62-ab26-2bccbc2ddfc2",
+      "domain_id": "de1d5e7a-f51b-480a-ae89-8e82a922c5e3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3"
+    }
+  ],
+  "departments": [
+    {
+      "id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "name": "Base Template",
+      "description": "The default template for setting sharing permissions",
+      "organization_id": "8e3b2cfc-7942-49da-bb92-09f9bab65721"
+    },
+    {
+      "id": "aea99816-277d-438d-b892-432066c40ca0",
+      "name": "Sales",
+      "description": "The department with Sales guys, duh",
+      "organization_id": "b1df3f86-f94a-4aa1-9e84-4c0dee6ce6ad"
+    },
+    {
+      "id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "name": "Legal",
+      "description": "The department that deals with legal matters",
+      "organization_id": "8152ece8-4415-4168-8ccf-7290bcf8cbc3"
+    },
+    {
+      "id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "name": "Finance",
+      "description": "The department that deals with money",
+      "organization_id": "b15a1898-95fa-481a-8c86-61155dfb86e0"
+    },
+    {
+      "id": "533d3610-d071-4349-832f-f13e131e179c",
+      "name": "Investor Relations",
+      "description": "The department that deals with investors",
+      "organization_id": "47801290-0473-493f-8e83-4d1295a0707c"
+    }
+  ],
+  "permissions": [
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "name": "READ",
+      "description": "Can view files?",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86"
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "name": "COMMENT",
+      "description": "Can comment on files?",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86"
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "name": "WRITE",
+      "description": "Can edit files?",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86"
+    },
+    {
+      "id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "name": "SHARE",
+      "description": "Can transfer ownership of files?",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86"
+    }
+  ],
+  "trust_group_permissions": [
+    {
+      "id": "b5f97c02-75b4-4c25-8fc5-3f582efe3b47",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "96ad686a-6d26-4c9d-ba2f-0427db70e14f",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "5dbb5cd4-67c7-46d7-b721-75fe3b3a9f47",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "e597694b-6307-4ed4-89c1-f8b7ef11bcb3",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "4adefc0c-34fc-4c43-bc82-b763b503c811",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "b816d318-4be5-40eb-986a-b92ed556f766",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "98bc2e69-a6e2-4fdc-9d79-7f9eada59613",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "c64b49b2-02ca-4f74-a046-3992df53fdad",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "4870ad08-c17d-41f5-9383-a223445cd88c",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "d8b4d5a7-3228-4f81-9f55-53c75a33c3bb",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "149af3cb-9312-403f-aa68-82c1b2056bb9",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "3f0450f5-2560-4773-b081-584de1180e0e",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": true
+    },
+    {
+      "id": "c48eec9e-f4bb-4877-bcf4-7cefb76bda46",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "8754b6d2-1001-4651-bdbf-b31616a2960b",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "018db0c0-919f-43f8-b8df-8516d0847d03",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "ef190cef-4c3a-45eb-9361-259b60202479",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "aea99816-277d-438d-b892-432066c40ca0",
+      "enabled": false
+    },
+    {
+      "id": "05134885-4d32-4804-8ec2-1c17f512b7a0",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": false
+    },
+    {
+      "id": "d31fd536-0e35-4fa4-b54d-a8e2f696d411",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": false
+    },
+    {
+      "id": "272ac0d1-7a67-484e-b30a-6bc2e7b03171",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": false
+    },
+    {
+      "id": "8353cbd5-2dab-4133-b05c-163bbd7a5375",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": false
+    },
+    {
+      "id": "beeae95c-7b4b-4963-a3ef-f4d239618252",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "509bb6ef-f5d3-41e1-8d01-dc8db3c3e1bf",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "549516cc-6b16-4389-9df6-1e00f83569bf",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "e0e2e1e4-48fc-40c3-ba94-561737033fd0",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "f1dc8a82-8b53-4a66-bc77-88e21724a771",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "1bde2084-86fd-4431-a5d5-1d83395568d5",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "4ccb1345-ab9e-4387-b499-24baa7700414",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "094e3921-6ad6-497b-acf9-569d93851e1d",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "dc54c703-9983-4e1d-a1d4-42fee46a2643",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "58c65aea-b012-4ac9-a6f7-e00ca5980adc",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "4ee0d835-612f-4ab2-a128-91f6872d0bcd",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": true
+    },
+    {
+      "id": "22b3211b-f13f-4f88-8577-7a124e4ffa62",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "533d3610-d071-4349-832f-f13e131e179c",
+      "enabled": false
+    },
+    {
+      "id": "fd8464b5-6d76-4b6b-b2bf-c8e57acfbc6f",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": false
+    },
+    {
+      "id": "6d4bfdeb-686d-4260-a0c1-7a9dfa61eb04",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": false
+    },
+    {
+      "id": "53db2ead-09f9-4716-9845-6b2b48fd6415",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": false
+    },
+    {
+      "id": "0574b05e-afe1-416a-b2cd-c053f3812cd9",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": false
+    },
+    {
+      "id": "14ec9829-6281-472e-9857-5e59e3b94ac9",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "27509120-0a45-4821-b978-5d428d69eaf8",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "5bd719d3-6cb7-4d06-a4b3-20449fa480f6",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "75f8acc2-7035-42aa-a1de-e45d361f3a02",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "401b3997-ab02-46db-9599-94d269bb8e43",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "0c4e9367-aabe-4fbc-81d4-8b4092e8ae6f",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "0ffecda2-1c3e-4fc5-badd-bce4cecb839f",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "417309a3-3996-4b12-b4f4-ec9aba352aed",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "32b346d3-a8dc-4212-892f-ab909e96531d",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "84e5aa73-8f6c-4392-a3db-d45d4f407081",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "64fb95d5-d33e-4245-a851-0ff8e39b880d",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": true
+    },
+    {
+      "id": "d24c3e59-7f58-430e-9dfa-51434646a282",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "2694c94d-455c-44c8-94fb-ff43aa1c11eb",
+      "enabled": false
+    },
+    {
+      "id": "00f5d5a3-f0b9-4f6a-bb73-8edc221d0274",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": false
+    },
+    {
+      "id": "0081c31c-2ee7-41e0-9ede-8e8dfaa77ce0",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": false
+    },
+    {
+      "id": "4a6378fb-dee0-4dca-8bd7-d50fca82e4a7",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": false
+    },
+    {
+      "id": "b85d551a-1d9f-462c-85b4-1c580e5a1de3",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": false
+    },
+    {
+      "id": "38b71f0a-8ec5-45bb-9c1c-d4847036cbf1",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "8e8d377d-80be-4bba-b3ba-fff2807e3dba",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "10d6cadc-36bf-421c-a0e2-6bb13685c27e",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "3812527a-b118-4ab6-ac11-a5270d1f56b3",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "c64d0a7d-dbf0-41c8-bd5f-7d563a9cf65a",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "ecc2e9ac-a03c-4829-9206-3c1ec2d9989c",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "322bed50-938a-43e7-adbd-f02af4f3c9c8",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "f9b87ae1-c6f5-4667-993a-7cdaa58de814",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "a26ce8e3-a9e4-4dd4-b465-dd7033ea08e4",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "5d071fd4-ddc4-44c6-aa62-2899c2fb393b",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "e41c3458-3a7f-44d2-9fdb-7009b1b500f8",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": true
+    },
+    {
+      "id": "1f3c766c-599e-42d9-b60a-042557165f7d",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "5367663d-e359-4305-baa2-b4e8ccdb80e3",
+      "enabled": false
+    },
+    {
+      "id": "9a6056e7-94a4-4c2d-81a0-6653d68e4347",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": false
+    },
+    {
+      "id": "dd3e3f2f-55c5-4575-b805-09fc7373017e",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": false
+    },
+    {
+      "id": "4327156c-75fc-4782-b7fb-8dfc278e98f1",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": false
+    },
+    {
+      "id": "76f2b0fa-30dc-4e78-94d1-2d4ead553e47",
+      "trust_group_id": "8d4d7810-a513-4956-876b-01c87efc04d6",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": false
+    },
+    {
+      "id": "72bf2c01-d7a7-40a5-8efd-99fddfbf3411",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "fc7b8970-edce-484c-832a-a4073d6edcb9",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "f5a8c024-17b3-4f4b-8037-210c3dbb4a4e",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "80a2d085-359a-4706-b4c0-749c1f2b8807",
+      "trust_group_id": "5fc7dd1c-597e-4c07-bb67-305e8ce31b8a",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "fc23140a-5a00-4f2b-a0bf-cc828617c39f",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "3ea0265a-18ca-40e9-9284-5eeabddcfef1",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "043a3b9d-3506-4748-baa4-902363bdc40c",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "3a9aa80d-9a73-4a5a-ad69-185e74bab9ca",
+      "trust_group_id": "2a3d7bdd-51ce-4509-980a-b0e0aab88db4",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "41192074-bb62-45ff-9d0d-bda7a1f5a793",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa1",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "b397348d-a044-45ee-9b4f-836f2108f767",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa2",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "3847ec36-f73c-4f9b-a5dd-535111554a7f",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa3",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": true
+    },
+    {
+      "id": "b8ada64a-a4de-4be8-befd-0ad9ed8dc43f",
+      "trust_group_id": "3d30c4b4-e544-4060-9c96-5335687c090e",
+      "permission_id": "3fa85f64-5717-4562-b3fc-2c963f66afa4",
+      "collaborator_id": "a898c8b0-3afc-456e-bf84-83ac73fa7e86",
+      "department_id": "d2f02f3b-47cd-4931-975e-8a15a8f2c8af",
+      "enabled": false
+    }
+  ]
+}

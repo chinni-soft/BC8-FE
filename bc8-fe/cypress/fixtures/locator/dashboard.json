@@ -1,0 +1,22 @@
+{
+  "allExternalPartnerTabClass": "MuiButtonBase-root",
+  "zemosoDomainTrustGroupDom": "[row-index=\"2\"] > [aria-colindex=\"3\"]",
+  "top100TrustGroupDom": "[data-value=\"Top 100\"]",
+  "allExternalPartners": "All External Partners",
+  "selectTrustGroupTab": "MuiTab-wrapper",
+  "top100": "Top 100",
+  "top10000": "Top 10000",
+  "top30000": "Top 30000",
+  "top40000": "Top 40000",
+  "createTrustGroupButton": "MuiButton-label",
+  "create": "Create",
+  "createModalInput": "createModalInput",
+  "dataTestId": "data-testid",
+  "addTrustGroupIcon": "[data-testid=iconButton]",
+  "changePermissionGrant": "[row-index='1'] > [aria-colindex='3']",
+  "selectBaseCommunication": ".MuiTabs-flexContainer > :nth-child(1)",
+  "securityDepartment": "Security",
+  "createDepartmentButton": "MuiButton-label",
+  "addDepartmentButton": "nth-child(7) > .makeStyles-menuItem-43 > :nth-child(1) > .MuiSvgIcon-root",
+  "selectSecurityDepartment": ":nth-child(7) > .makeStyles-menuItem-43 > .makeStyles-displayName-44 > .MuiTypography-root"
+}

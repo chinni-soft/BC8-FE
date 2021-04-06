@@ -1,0 +1,38 @@
+{
+  "getCurrentPermissions": [
+    {
+      "id": "153e3d95-f3bb-4286-b4ef-ec073ccfe921",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "description": "Can view files?",
+      "name": "GSUITE_READ",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "97941653-cbe2-4f79-8565-0887a138f2a1",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "description": "Can comment on files?",
+      "name": "GSUITE_COMMENT",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "feb408d7-5a73-46d7-bf18-9be4ce11f3da",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "description": "Can edit files?",
+      "name": "GSUITE_EDIT",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    },
+    {
+      "id": "dbb5cce3-b731-4269-9084-362234cc0fc3",
+      "collaborator_id": "9682e134-1083-4caf-9992-7ae565e6872b",
+      "description": "Can transfer ownership of files?",
+      "name": "GSUITE_OWNER",
+      "created_at": 1601978260921,
+      "updated_at": 1601978260921
+    }
+  ],
+  "getEmptyPermission": [],
+  "getUpdatedPermissions": []
+}

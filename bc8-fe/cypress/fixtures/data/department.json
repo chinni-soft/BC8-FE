@@ -1,0 +1,91 @@
+{
+  "getCurrentDepartments": [
+    {
+      "id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "name": "Base Template",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "672de10f-5531-460f-8915-c9f32daf4631",
+      "name": "Sales",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "62c367dc-1cfa-4e40-9a28-a03e8c464f93",
+      "name": "Legal",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "7b2e6185-b32d-401c-bdf5-16db18038510",
+      "name": "Finance",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "143e3644-c83c-4bb5-bda8-eca6a831ee15",
+      "name": "Investor Relations",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    }
+  ],
+  "postDepartment": {
+    "id": "153e3644-c83c-4bb5-fda8-eca6b831ee15",
+    "name": "Security",
+    "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+    "created_at": 1601978321210,
+    "updated_at": 1601978321210
+  },
+  "getEmptyDepartments": [],
+  "getUpdatedDepartments": [
+    {
+      "id": "599ca559-e7ea-4f2d-9a71-b78819d3f9a7",
+      "name": "Base Template",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "672de10f-5531-460f-8915-c9f32daf4631",
+      "name": "Sales",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "62c367dc-1cfa-4e40-9a28-a03e8c464f93",
+      "name": "Legal",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "7b2e6185-b32d-401c-bdf5-16db18038510",
+      "name": "Finance",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "143e3644-c83c-4bb5-bda8-eca6a831ee15",
+      "name": "Investor Relations",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    },
+    {
+      "id": "153e3644-c83c-4bb5-fda8-eca6b831ee15",
+      "name": "Security",
+      "organization_id": "b940d254-8605-406d-a4d9-978ab7e4407b",
+      "created_at": 1601978321210,
+      "updated_at": 1601978321210
+    }
+  ]
+}
